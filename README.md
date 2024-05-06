@@ -4,7 +4,9 @@ This is a web application built using Streamlit that allows users to upload imag
 # Features
 
 Upload images for analysis
+
 Detect diseases or nutrient deficiencies from the uploaded images
+
 Easy-to-use interface powered by Streamlit
 ![SS 1](https://github.com/Ashna2002/Nutrient-Deficency-and-Disease-Detection-of-Plant-leaves/assets/83365125/4d94b826-73e1-494e-aec1-56978599a4a9)
 ![SS 2](https://github.com/Ashna2002/Nutrient-Deficency-and-Disease-Detection-of-Plant-leaves/assets/83365125/a9fdc515-d254-4911-a126-613d9e751499)
