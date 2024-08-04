@@ -1,4 +1,5 @@
-# Nutrient-Deficency-Disease-Detection-of-Plant-leaves
+# Nutrient Deficiency and Disease Detection in Plant Leaves 🌿🩺
+
 This is a web application built using Streamlit that allows users to upload images and detect diseases or nutrient deficiencies present in the images. The application utilizes a Convolutional Neural Network (CNN) model trained on relevant data to make predictions.
 
 # Features
